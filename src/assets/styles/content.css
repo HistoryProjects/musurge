@@ -1,0 +1,13 @@
+.content-wrap{
+    width: 84%;
+    height: auto;
+    float: right;
+    background-color: #1E2135;
+    /*position: fixed;
+    right: 0;
+    top: 0;*/
+}
+
+.content{
+    padding: 30px;
+}
